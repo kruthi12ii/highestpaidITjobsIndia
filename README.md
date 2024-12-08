@@ -11,7 +11,7 @@ This project demonstrates how to upload files to an AWS S3 bucket and interact w
 2. **Libraries to Install**:  
    Run the following command to install required Python libraries:  
    ```bash  
-   pip install boto3 os  
+   pip install boto3 
 AWS IAM Configuration:
 
 Log in to your AWS Management Console.
